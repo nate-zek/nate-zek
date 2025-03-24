@@ -60,7 +60,6 @@ I'm always open to discussing **new projects, collaborations, or learning opport
 
 - 📧 Email: [nathezek7@gmail.com](mailto:nathezek7@gmail.com)
 - 📸 Instagram: [@nate_zek7](https://www.instagram.com/nate_zek7/)
-- 💼 LinkedIn: [linkedin.com/in/nathezek](https://www.linkedin.com/in/nathezek)
 - 🐙 GitHub: [github.com/nate-zek](https://github.com/nate-zek)
 
 Looking forward to building something great together! 💡🚀
