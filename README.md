@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Nati
 
-I'm a **Frontend Web Developer** who builds scalable, responsive, and impactful web applications. I’m currently diving deeper into **Angular** to expand my toolkit and have experience working with **React, Next.js, and Angular**. My goal is to contribute to **large-scale systems** that push the limits of modern web technologies.
+I'm a **Frontend Web Developer** who builds scalable, responsive, and impactful web applications. I’m currently diving deeper into **Next 15** and **Angular 19** to expand my toolkit and have experience working with **React 19, Next.js, and Angular 18**. My goal is to contribute to **large-scale systems** that push the limits of modern web technologies.
 
 
 
